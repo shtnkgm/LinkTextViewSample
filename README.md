@@ -1,0 +1,2 @@
+# LinkTextViewSample
+URLリンクを含むTextViewのサンプル
