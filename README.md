@@ -2,4 +2,4 @@
 URLリンクを含むTextViewのサンプル
 
 # スクリーンショット
-![スクリーンショット01](./screenshot_01.png width="320px")
+<img src="./screenshot_01.png" width="320px">
