@@ -30,14 +30,6 @@ class ViewController: UIViewController, UITextViewDelegate {
         textView.attributedText = attributedString
         textView.isSelectable = true
     }
-    
-    func linkAttributedString(baseString: String, linkableString: String, urlString: String) -> NSAttributedString {
-        let attributedString = NSMutableAttributedString(string: baseString)
-        attributedString.addAttribute(NSLinkAttributeName,
-                                      value: urlString,
-                                      range: NSString(string: baseString).range(of: linkableString))
-        return attributedString
-    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
