@@ -2,4 +2,4 @@
 URLリンクを含むTextViewのサンプル
 
 # スクリーンショット
-![スクリーンショット01](https://github.com/shtnkgm/LinkTextViewSample/edit/master/screenshot_01.png)
+![スクリーンショット01](./screenshot_01.png)
